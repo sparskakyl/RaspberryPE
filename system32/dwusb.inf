@@ -7,7 +7,7 @@ ClassGUID={36FC9E60-C465-11CF-8056-444553540000}
 Provider=%ProviderString%
 CatalogFile=dwusb.cat
 BootCritical=1
-DriverVer = 05/16/2018,15.51.34.324
+DriverVer = 04/25/2018,19.48.52.95
 
 [SourceDisksNames]
 3426=windows cd
@@ -139,4 +139,5 @@ REG_SZ                = 0x00000000
 ;
 ProviderString="TODO-Set-Provider"
 Msft="Microsoft"
+
 
