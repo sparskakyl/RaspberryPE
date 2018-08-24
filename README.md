@@ -1,7 +1,7 @@
 # RaspberryPE
 Windows 10 PE for the Raspberry Pi.
 # Download
-You can download it at https://downloadrpe.bobpony.org
+You can download it at https://raspberrype.bobpony.org/
 # Installation
 Please read the wiki on how to get it working on the Raspberry Pi. It's pretty easy to follow. :ok_hand:
 # Credits
